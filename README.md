@@ -1,7 +1,7 @@
 [![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github)](https://github.com/onexizz)
 [![Cloudflare](https://img.shields.io/badge/-Cloudflare-090909?style=for-the-badge&logo=cloudflare)](https://dash.cloudflare.com/login)
 
-[![Header](https://media.onexizz.space/images/cloudflare/onexizz.png)](https://onexizz.space)
+[![Header](https://onexizz.furryporno.ru/img/cloudflare/onexizz.png)](https://onexizz.space)
 
 Добавление домена в CloudFlare:
 
